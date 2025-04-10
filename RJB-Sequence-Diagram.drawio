@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="fq7kyx0bK-vXe3fREHkj">
+    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-1" value="User (Tyrone)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="1074" as="geometry" />
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-2" value="App Class" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="296" y="20" width="150" height="1074" as="geometry" />
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-3" value="Rust Library" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="752" y="20" width="150" height="1074" as="geometry" />
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-4" value="User (Muliza)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1208" y="20" width="150" height="1074" as="geometry" />
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-5" value="Provides message for signing" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-1" target="E1O7OG1XwUmm70L9NaY0-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-6" value="Preprocesses message (context + message)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-2" target="E1O7OG1XwUmm70L9NaY0-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="422" y="179" />
+              <mxPoint x="422" y="209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-7" value="Calls generate_signing_key()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-2" target="E1O7OG1XwUmm70L9NaY0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="608" y="261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-8" value="Returns signing key" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-3" target="E1O7OG1XwUmm70L9NaY0-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="611" y="313" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-9" value="Calls derive_verifying_key(signingKey)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-2" target="E1O7OG1XwUmm70L9NaY0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="608" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-10" value="Returns verifying key" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-3" target="E1O7OG1XwUmm70L9NaY0-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="611" y="417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-11" value="Calls serialize_verifying_key(verifyingKey)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-2" target="E1O7OG1XwUmm70L9NaY0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="608" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-12" value="Returns serialized verifying key" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-3" target="E1O7OG1XwUmm70L9NaY0-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="611" y="521" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-13" value="Calls sign_message(signingKey, preprocessedMessage)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-2" target="E1O7OG1XwUmm70L9NaY0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="608" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-14" value="Returns signature" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-3" target="E1O7OG1XwUmm70L9NaY0-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="611" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-15" value="Sends (message, serializedKey, signature)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-2" target="E1O7OG1XwUmm70L9NaY0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="836" y="677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-16" value="Calls deserialize_verifying_key(serializedKey)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-4" target="E1O7OG1XwUmm70L9NaY0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1067" y="729" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-17" value="Returns verifying key" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-3" target="E1O7OG1XwUmm70L9NaY0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1064" y="781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-18" value="Calls verify_signature(verifyingKey, message, signature)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-4" target="E1O7OG1XwUmm70L9NaY0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1067" y="833" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-19" value="Returns verification result" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-3" target="E1O7OG1XwUmm70L9NaY0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1064" y="885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-20" value="Calls drop_verifying_key(verifyingKey)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-4" target="E1O7OG1XwUmm70L9NaY0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1067" y="937" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1O7OG1XwUmm70L9NaY0-21" value="Calls drop_signing_key(signingKey)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="E1O7OG1XwUmm70L9NaY0-2" target="E1O7OG1XwUmm70L9NaY0-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="608" y="989" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

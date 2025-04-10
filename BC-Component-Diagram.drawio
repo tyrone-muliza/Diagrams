@@ -1,0 +1,218 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="x2W729SJQR6vkl9VkXfr">
+    <mxGraphModel dx="788" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="itG0pVZh6pTC0rsUwttX-1" value="Tyrone" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="771" y="20" width="108" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-2" value="App Class" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="776" y="147" width="98" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-3" value="BouncyCastle Library" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="1301" y="400" width="180" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-4" value="Message Preprocessing" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="273" width="221" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-5" value="Serialized Key" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="291" y="273" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-6" value="Muliza" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1561" y="273" width="105" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-7" value="FIPS 205 Compliance" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="487" y="544" width="208" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-8" value="Randomness Generation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="661" y="273" width="232" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-9" value="Context Handling" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="943" y="273" width="184" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-10" value="Memory Management" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1177" y="273" width="212" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-11" value="Key Pair Generation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="745" y="544" width="202" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-12" value="Signature Generation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="997" y="544" width="212" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-13" value="Signature Verification" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1259" y="544" width="215" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-14" value="Key Serialization" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1525" y="544" width="179" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-15" value="Key Deserialization" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1754" y="544" width="197" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-16" value="Approved RBG" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="33" y="689" width="162" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-17" value="Hash Function" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="245" y="689" width="161" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-18" value="Verification Logic" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="456" y="689" width="185" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-19" value="Key Security" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="691" y="689" width="148" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-20" value="Provides Message" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-1" target="itG0pVZh6pTC0rsUwttX-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-21" value="Generates Key Pair" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0;entryY=0.37;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-2" target="itG0pVZh6pTC0rsUwttX-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="237" />
+              <mxPoint x="556" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-22" value="Preprocesses Message" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-2" target="itG0pVZh6pTC0rsUwttX-4" edge="1">
+          <mxGeometry x="0.134" y="7" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="237" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-23" value="Signs Message" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.58;entryX=0.7;entryY=0;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-2" target="itG0pVZh6pTC0rsUwttX-3" edge="1">
+          <mxGeometry x="-0.0182" y="-4" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1475" y="237" />
+              <mxPoint x="1475" y="364" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-24" value="Serializes Verifying Key" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-2" target="itG0pVZh6pTC0rsUwttX-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-25" value="Sends Signed Message" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-2" target="itG0pVZh6pTC0rsUwttX-6" edge="1">
+          <mxGeometry x="-0.1092" y="5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1614" y="237" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-26" value="Deserializes Verifying Key" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.03;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-6" target="itG0pVZh6pTC0rsUwttX-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1614" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-27" value="Verifies Signature" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.85;entryX=1;entryY=0.24;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-6" target="itG0pVZh6pTC0rsUwttX-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1793" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-28" value="Performs SLH-DSA Operations" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-3" target="itG0pVZh6pTC0rsUwttX-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="591" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-29" value="Uses SecureRandom" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-2" target="itG0pVZh6pTC0rsUwttX-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="777" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-30" value="Handles Context String" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-2" target="itG0pVZh6pTC0rsUwttX-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1035" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-31" value="Manages Memory Segments" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-2" target="itG0pVZh6pTC0rsUwttX-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1283" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-32" value="generateKeyPair" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-3" target="itG0pVZh6pTC0rsUwttX-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="846" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-33" value="signMessage" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-3" target="itG0pVZh6pTC0rsUwttX-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1103" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-34" value="verifySignature" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-3" target="itG0pVZh6pTC0rsUwttX-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1367" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-35" value="serializeKey" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-3" target="itG0pVZh6pTC0rsUwttX-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1614" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-36" value="deserializeKey" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-3" target="itG0pVZh6pTC0rsUwttX-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1852" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-37" value="Randomness Generation" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-7" target="itG0pVZh6pTC0rsUwttX-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="114" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-38" value="Message Digest Computation" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-7" target="itG0pVZh6pTC0rsUwttX-17" edge="1">
+          <mxGeometry x="-0.0041" y="14" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="643" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-39" value="Signature Validation" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-7" target="itG0pVZh6pTC0rsUwttX-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="548" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="itG0pVZh6pTC0rsUwttX-40" value="Key Pair Management" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="itG0pVZh6pTC0rsUwttX-7" target="itG0pVZh6pTC0rsUwttX-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

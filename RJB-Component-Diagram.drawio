@@ -1,0 +1,267 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="jMgou7oV6JWuyuvzl7zQ">
+    <mxGraphModel dx="788" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TFplHq2a72peZHKTEFRp-1" value="Tyrone" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1029" y="20" width="108" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-2" value="App Class" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="1034" y="147" width="98" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-3" value="Rust Library" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="1213" y="544" width="116" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-4" value="Message Preprocessing" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="342" y="291" width="221" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-5" value="Serialized Key" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1741" y="291" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-6" value="Muliza" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1736" y="418" width="105" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-7" value="FIPS 205 Compliance" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="417" y="689" width="208" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-8" value="FFM API" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="692" y="291" width="115" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-9" value="Context Handling" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="857" y="291" width="184" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-10" value="Memory Management" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="291" width="212" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-11" value="Signing Key Generation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="675" y="689" width="225" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-12" value="Verifying Key Derivation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="950" y="689" width="232" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-13" value="Key Serialization" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1232" y="689" width="179" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-14" value="Key Deserialization" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1553" y="689" width="197" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-15" value="Signature Generation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="689" width="212" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-16" value="Signature Verification" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="2092" y="689" width="215" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-17" value="Approved RBG" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="833" width="162" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-18" value="Hash Function" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="232" y="833" width="161" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-19" value="Verification Logic" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="443" y="833" width="185" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-20" value="Key Security" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="678" y="833" width="148" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-21" value="Provides Message" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-1" target="TFplHq2a72peZHKTEFRp-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-22" value="Generates Signing Key" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0;entryY=0.4;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-3" edge="1">
+          <mxGeometry x="-0.0251" y="51" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="246" />
+              <mxPoint x="649" y="508" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-23" value="Derives Verifying Key" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.75;entryX=0.74;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-3" edge="1">
+          <mxGeometry x="0.2401" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1337" y="246" />
+              <mxPoint x="1337" y="508" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-24" value="Preprocesses Message" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.29;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-4" edge="1">
+          <mxGeometry x="0.3009" y="12" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="246" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-25" value="Signs Message" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.66;entryX=0.99;entryY=0.19;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-3" edge="1">
+          <mxGeometry x="0.0536" y="-35" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1485" y="246" />
+              <mxPoint x="1485" y="508" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-26" value="Serializes Verifying Key" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1821" y="246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-27" value="Sends Signed Message" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.62;entryX=0;entryY=0.19;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-6" edge="1">
+          <mxGeometry x="0.3629" y="-5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1585" y="246" />
+              <mxPoint x="1585" y="381" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-28" value="Deserializes Verifying Key" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.99;entryY=0.3;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-6" target="TFplHq2a72peZHKTEFRp-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1599" y="508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-29" value="Verifies Signature" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.68;entryX=0.99;entryY=0.43;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-6" target="TFplHq2a72peZHKTEFRp-3" edge="1">
+          <mxGeometry x="0.1095" y="-11" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2124" y="508" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-30" value="Performs SLH-DSA Operations" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-3" target="TFplHq2a72peZHKTEFRp-7" edge="1">
+          <mxGeometry x="0.3917" y="4" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="521" y="643" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-31" value="Uses Foreign Function &amp; Memory API" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-8" edge="1">
+          <mxGeometry x="0.4415" y="15" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="749" y="246" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-32" value="Handles Context String" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="948" y="246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-33" value="Manages Memory Segments" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-2" target="TFplHq2a72peZHKTEFRp-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1196" y="246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-34" value="generate_signing_key" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-3" target="TFplHq2a72peZHKTEFRp-11" edge="1">
+          <mxGeometry x="0.0749" y="3" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="787" y="643" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-35" value="derive_verifying_key" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-3" target="TFplHq2a72peZHKTEFRp-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1066" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-36" value="serialize_verifying_key" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-3" target="TFplHq2a72peZHKTEFRp-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1321" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-37" value="deserialize_verifying_key" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-3" target="TFplHq2a72peZHKTEFRp-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1651" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-38" value="sign_message" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-3" target="TFplHq2a72peZHKTEFRp-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1906" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-39" value="verify_signature" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.6;entryX=0.33;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-3" target="TFplHq2a72peZHKTEFRp-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2103" y="643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-40" value="Randomness Generation" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-7" target="TFplHq2a72peZHKTEFRp-17" edge="1">
+          <mxGeometry x="0.3839" y="14" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101" y="788" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-41" value="Message Digest Computation" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-7" target="TFplHq2a72peZHKTEFRp-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="788" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-42" value="Signature Validation" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-7" target="TFplHq2a72peZHKTEFRp-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="788" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-43" value="Key Pair Management" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-7" target="TFplHq2a72peZHKTEFRp-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="752" y="788" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-44" value="Combines Context + Message" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0;entryX=0;entryY=0.61;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-4" target="TFplHq2a72peZHKTEFRp-2" edge="1">
+          <mxGeometry x="-0.2464" y="-5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="503" y="246" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-45" value="Serialized Key" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.64;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-5" target="TFplHq2a72peZHKTEFRp-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1821" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TFplHq2a72peZHKTEFRp-46" value="Signature + Message" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.64;entryX=0.52;entryY=-0.01;rounded=0;" parent="1" source="TFplHq2a72peZHKTEFRp-6" target="TFplHq2a72peZHKTEFRp-16" edge="1">
+          <mxGeometry x="-0.0455" y="-18" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2210" y="508" />
+              <mxPoint x="2210" y="643" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
